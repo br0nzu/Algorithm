@@ -5,9 +5,9 @@
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7306)
 
-| 문제 분류 | 문제 | 문제 제목 |
-| :--: | :--: | :--: |
-| 연습 문제 | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) |
+| 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
+| :--: | :--: | :--: | :--: |
+| 연습 문제 | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [정답 코드](10871.cpp) |
 | 기본 문제✔ | 1000 | [A+B](https://www.acmicpc.net/problem/1000) |
 | 기본 문제✔ | 2557 | [Hello World](https://www.acmicpc.net/problem/2557) |
 | 기본 문제✔ | 10171 | [고양이](https://www.acmicpc.net/problem/10171) |
