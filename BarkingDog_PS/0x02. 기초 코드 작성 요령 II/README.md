@@ -2,7 +2,6 @@
 
 ![100%](https://progress-bar.dev/24/?scale=27&title=progress&width=500&color=babaca&suffix=/27)
 
-
 [문제집 링크](https://www.acmicpc.net/workbook/view/7306)
 
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
