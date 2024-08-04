@@ -5,6 +5,7 @@
 | 0x00 | 오리엔테이션 (문제집 X) | |
 | 0x01 | 기초 코드 작성 요령 I (문제집 X) | |
 | 0x02 | [기초 코드 작성 요령 II](0x02.%20기초%20코드%20작성%20요령%20II/README.md) | ![100%](https://progress-bar.dev/24/?scale=27&title=progress&width=500&color=babaca&suffix=/27) |
+| 0x03 | [배열](0x03.%20배열/README.md) | ![100%](https://progress-bar.dev/6/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 
 ## Link
 - [실전 알고리즘 강좌 블로그](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
